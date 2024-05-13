@@ -25,7 +25,7 @@ author:
   name             : "Jianhong Zhao"
   pronouns         : # example: "she/her"  
   bio              : "Love Formal Method and Programming Language."
-  location         : "Hangzhou"
+  location         : # "Hangzhou"
   employer         : "Zhejiang University"
   uri              : # URL
   email            : "zhaojianhong96@gmail.com" 
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
